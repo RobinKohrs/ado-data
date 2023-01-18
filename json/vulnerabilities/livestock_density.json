@@ -63,55 +63,6 @@
     "livestock_density": 0.745
   },
   {
-    "nuts_id": "CH01",
-    "regions": "Région lémanique",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH02",
-    "regions": "Espace Mittelland",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH03",
-    "regions": "Nordwestschweiz",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH04",
-    "regions": "Zürich",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH05",
-    "regions": "Ostschweiz",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH06",
-    "regions": "Zentralschweiz",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
-    "nuts_id": "CH07",
-    "regions": "Ticino",
-    "livestock_tot_units": null,
-    "utilised_agric_area_hectare": null,
-    "livestock_density": null
-  },
-  {
     "nuts_id": "DE11",
     "regions": "Stuttgart",
     "livestock_tot_units": 488780,
